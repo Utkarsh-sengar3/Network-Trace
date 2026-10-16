@@ -1,0 +1,60 @@
+NETWORKTRACE - CRIME CONTEXT ANALYSIS
+============================================================
+
+Dataset: 01_District_wise_crimes_committed_IPC_2001_2012.csv
+Rows: 8,609
+Columns: 33
+
+Top 10 States/UTs:
+      STATE/UT  total_crimes  average_crimes  districts  years
+MADHYA PRADESH       4827540     7687.165605         54     12
+   MAHARASHTRA       4546872     8237.086957         47     12
+    TAMIL NADU       4120352     8785.398721         43     12
+ANDHRA PRADESH       4037962    10913.410811         35     12
+ UTTAR PRADESH       3716148     4232.514806         78     12
+     RAJASTHAN       3711832     8175.841410         50     12
+     KARNATAKA       2962126     7423.874687         36     12
+        KERALA       2874918    12338.703863         27     12
+       GUJARAT       2771550     7217.578125         37     12
+         BIHAR       2692586     4986.270370         45     12
+
+Top 10 Districts:
+      STATE/UT         DISTRICT  total_crimes  average_crimes  years
+      DELHI UT   DELHI UT TOTAL        633174    52764.500000     12
+     KARNATAKA BANGALORE COMMR.        350347    29195.583333     12
+   MAHARASHTRA    MUMBAI COMMR.        222670    31810.000000      7
+       GUJARAT AHMEDABAD COMMR.        218005    18167.083333     12
+MADHYA PRADESH           INDORE        204398    17033.166667     12
+ANDHRA PRADESH   HYDERABAD CITY        202931    16910.916667     12
+MADHYA PRADESH           BHOPAL        169575    14131.250000     12
+    TAMIL NADU          CHENNAI        164467    13705.583333     12
+   WEST BENGAL          KOLKATA        158429    13202.416667     12
+         BIHAR            PATNA        147542    12295.166667     12
+
+Yearly Trends:
+ YEAR  total_crimes  average_crimes  districts
+ 2001       1823692     2674.035191        667
+ 2002       1829467     2670.754745        670
+ 2003       1763524     2541.100865        679
+ 2004       1885633     2713.141007        680
+ 2005       1878667     2687.649499        684
+ 2006       1936256     2742.572238        691
+ 2007       2045738     2885.385049        694
+ 2008       2142729     2947.357634        711
+ 2009       2171596     2962.613915        716
+ 2010       2276123     3055.198658        727
+ 2011       2378928     3142.573316        741
+ 2012       2441475     3142.181467        759
+
+Top Crime Categories:
+                     crime_category  total_cases  average_cases  maximum_cases
+                   OTHER IPC CRIMES     10040286    1166.254617          32452
+                              THEFT      3732076     433.508654          23088
+                 HURT/GREVIOUS HURT      3394086     394.248577           4837
+                        OTHER THEFT      2334689     271.191660          11382
+                         AUTO THEFT      1397387     162.316994          14966
+                           BURGLARY      1140894     132.523406           3175
+        CAUSING DEATH BY NEGLIGENCE      1009367     117.245557           2058
+CRUELTY BY HUSBAND OR HIS RELATIVES       890412     103.428040           3035
+                           CHEATING       793725      92.197119           3155
+                              RIOTS       775923      90.129283           3181

@@ -1,0 +1,9 @@
+NETWORKTRACE - CRIME CONTEXT VISUALIZATIONS
+============================================================
+
+Generated visualizations:
+
+1. yearly_crime_trend.png
+2. top_10_states.png
+3. top_10_districts.png
+4. top_10_crime_categories.png
